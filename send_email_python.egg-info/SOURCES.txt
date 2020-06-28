@@ -1,0 +1,8 @@
+README.md
+setup.py
+send_email/__init__.py
+send_email_python.egg-info/PKG-INFO
+send_email_python.egg-info/SOURCES.txt
+send_email_python.egg-info/dependency_links.txt
+send_email_python.egg-info/not-zip-safe
+send_email_python.egg-info/top_level.txt
