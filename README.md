@@ -21,7 +21,11 @@ sendmail.setup(<email provider of sender>)
 Send simple email with a message:
 
 ```bash
-sendmail.mail(<senders email>,<senders email password>,<recievers email>,<subject>,<message>)
+sendmail.mail(<senders email>,
+              <senders email password>,
+              <recievers email>,
+              <subject>,
+              <message>)
 ```
 
 Supported email providers:
