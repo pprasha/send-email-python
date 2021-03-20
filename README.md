@@ -30,8 +30,6 @@ sendmail.mail(<senders email>,
 
 Supported email providers:
 Gmail
-Hotmail 
-Yahoo
 
 ## Contributing
 
